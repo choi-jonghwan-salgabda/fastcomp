@@ -3,4 +3,4 @@ def Adder(Num1:int, Num2:int) -> int:
 
 
 if __name__=='__main__':
-    Adder(3,5)
+    print(Adder(3,5)
